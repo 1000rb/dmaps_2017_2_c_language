@@ -24,9 +24,9 @@
 > http://all-record.tistory.com/161
 
 로그인 후에 [이 페이지](https://github.com/1000rb/dmaps_2017_2_c_language)를 새로고침 해주신 다음,
-우측 상단의 Fork를 한번 클릭해보세요.
+우측 상단의 **Fork**를 한번 클릭해보세요.
 
-> ![Fork Icon](https://camo.githubusercontent.com/f5551f6ff6e06ee95274443989887168247158fd/687474703a2f2f68756270726573732e696f2f696d672f666f726b2d69636f6e2e706e67)
+> ![icon_fork](https://camo.githubusercontent.com/f5551f6ff6e06ee95274443989887168247158fd/687474703a2f2f68756270726573732e696f2f696d672f666f726b2d69636f6e2e706e67)
 > > 이렇게 생겼어요.
 
 여기까지 하셨으면 GitHub은 준비 끝!
@@ -55,7 +55,7 @@ SourceTree도 준비 끝!
 그 다음 상단에 '**Clone**'을 클릭하고, 아래 사진과 같이 입력하고 클론!
 > ![sourcetree_screen_clone](https://i.imgur.com/YnLFMT8.png)
 > **github 닉네임**에는 본인이 가입할 때 입력한 **Username**을 입력하면 돼요.
-> **Username**이 기억나지 않으면 GitHub 로그인했을 때 주소창 ```https://github.com/[github 닉네임]```!
+> **Username**이 기억나지 않으면 주소창을 보세요. GitHub 로그인했을 때 주소창 ```https://github.com/[github 닉네임]```!
 
 **준비가 다 끝났어요! 수고하셨어요. 이제 열심히 공부해봐요!**
 
