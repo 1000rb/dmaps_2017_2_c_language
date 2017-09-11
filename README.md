@@ -52,7 +52,7 @@ SourceTree도 준비 끝!
 > ![sourcetree_screen_init](https://i.imgur.com/SmhYw5S.png)
 > 이 화면이 뜨지 않으시는 분들은 뭐 고민없이 바로 연락주세요. 도와드려요.
 
-그 다음 상단에 '**Clone**'을 클릭하고, 아래 사진과 같이 입력하고 클론!
+그 다음 상단에 **Clone**을 클릭하고, 아래 사진과 같이 입력하고 클론!
 > ![sourcetree_screen_clone](https://i.imgur.com/YnLFMT8.png)
 > **github 닉네임**에는 본인이 가입할 때 입력한 **Username**을 입력하면 돼요.
 > **Username**이 기억나지 않으면 주소창을 보세요. GitHub 로그인했을 때 주소창 ```https://github.com/[github 닉네임]```!
