@@ -8,9 +8,9 @@
 
 # 연습 문제와 필요한 정보는 여기서!
 
-  - 연습 문제들을 Git으로 공유할 수 있어요.
+  - 연습 문제들을 [Git][git]으로 공유할 수 있어요.
   - 도움말과 더 알아야하는 내용들도 여기서 볼 수 있어요.
-  - Git이 뭔지는, 천천히 알려드릴게요!
+  - [Git][git]이 뭔지는, 천천히 알려드릴게요!
 
 # 따라해보기
 
@@ -59,6 +59,7 @@ SourceTree도 준비 끝!
 
 **준비가 다 끝났어요! 수고하셨어요. 이제 열심히 공부해봐요!**
 
+   [git]: <https://rogerdudler.github.io/git-guide/index.ko.html>
    [github]: <https://namu.wiki/w/GitHub>
    [atlassian]: <https://ko.wikipedia.org/wiki/%EC%95%84%ED%8B%80%EB%9D%BC%EC%8B%9C%EC%95%88>
    [sourcetree]: <https://www.sourcetreeapp.com/>
