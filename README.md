@@ -19,29 +19,29 @@
 
 ## GitHub
 [GitHub][github] 계정을 만들어서 연습 문제를 가져올 거에요.
-> https://github.com/
-  
+> https://github.com/  
+
 계정 만드는 방법은 여기! 저장소는 만들어도 되고 안 만들어도 돼요.
-> http://all-record.tistory.com/161
-  
+> http://all-record.tistory.com/161  
+
 로그인 후에 [이 페이지](https://github.com/1000rb/dmaps_2017_2_c_language)를 새로고침 해주신 다음,
-우측 상단의 **Fork**를 한번 클릭해보세요.
-  
+우측 상단의 **Fork**를 한번 클릭해보세요.  
+
 > ![icon_fork](https://camo.githubusercontent.com/f5551f6ff6e06ee95274443989887168247158fd/687474703a2f2f68756270726573732e696f2f696d672f666f726b2d69636f6e2e706e67)
-> > 이렇게 생겼어요.
-  
+> > 이렇게 생겼어요.  
+
 여기까지 하셨으면 GitHub은 준비 끝!
 
 ## SourceTree
 [Atlassian][atlassian] 계정을 만들어요.
 위에 [GitHub][github]과 똑같이, 날아온 인증 메일을 열어 인증하면 끝이에요.
-> https://my.atlassian.com/signup/index
-  
+> https://my.atlassian.com/signup/index  
+
 [SourceTree][sourcetree] 라는 프로그램을 쓸거에요. 여기서 무료로 설치해서 사용할 수 있어요.
-> https://www.sourcetreeapp.com/
-  
+> https://www.sourcetreeapp.com/  
+
 설치하는 방법은 여기!
-> http://brownbears.tistory.com/64
+> http://brownbears.tistory.com/64  
   
 SourceTree도 준비 끝!
 
@@ -59,19 +59,19 @@ SourceTree도 준비 끝!
 ## 연습 문제 땡겨오기
 
 [GitHub][github] 저장소에서 과제 등 최신 파일들을 땡겨오는 방법이에요. [SourceTree][sourcetree]를 켜서 로컬 저장소를 열었을 때의 화면이에요.
-> ![sourcetree repo init](https://i.imgur.com/x1oKRlM.png)
-  
+> ![sourcetree repo init](https://i.imgur.com/x1oKRlM.png)  
+
 위에 **Pull** 이라고 보이시죠? 눌러주시면 다음과 같이 나올거에요.
-> ![sourcetree pull](https://i.imgur.com/Egwoisf.png)
-  
+> ![sourcetree pull](https://i.imgur.com/Egwoisf.png)  
+
 그런 다음 확인만 눌러주면 끝! 실패하지 않았다면 따로 성공했다는 화면은 뜨지않아요.
 > ![sourcetree pull done](https://i.imgur.com/sxxujkf.png)
 > 이 화면이 뜨지않아도 성공한거에요!
 
 ## 제출은?
 
-**1000daekyeong@gmail.com** 이메일 주소로 **.cpp 파일**과 **실행 결과 스크린샷**만 첨부해서 보내주세요!
-    
+**1000daekyeong@gmail.com** 이메일 주소로 **.cpp 파일**과 **실행 결과 스크린샷**만 첨부해서 보내주세요!    
+
 **준비가 다 끝났어요! 수고하셨어요. 이제 열심히 공부해봐요!**
 
    [git]: <https://rogerdudler.github.io/git-guide/index.ko.html>
