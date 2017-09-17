@@ -58,6 +58,11 @@ SourceTree도 준비 끝!
 > **github 닉네임**에는 본인이 가입할 때 입력한 **Username**을 입력하면 돼요.
 > **Username**이 기억나지 않으면 주소창을 보세요. GitHub 로그인했을 때 주소창 ```https://github.com/[github 닉네임]```!
 
+잘 들어왔어요.
+> ![local repo directory file explorer](https://i.imgur.com/fnHLTit.png)
+
+저장소 연결도 끝!
+
 ## 연습 문제 땡겨오기
 
 [GitHub][github] 저장소에서 과제 등 최신 파일들을 땡겨오는 방법이에요. [SourceTree][sourcetree]를 켜서 로컬 저장소를 열었을 때의 화면이에요.
