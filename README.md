@@ -47,7 +47,7 @@
 
 SourceTree도 준비 끝!
 
-## 저장소 연결하기
+## GitHub 저장소 연결하기
 
 [SourceTree][sourcetree]를 설치하고 맨 처음 화면이에요.
 > ![sourcetree_screen_init](https://i.imgur.com/SmhYw5S.png)
@@ -57,6 +57,18 @@ SourceTree도 준비 끝!
 > ![sourcetree_screen_clone](https://i.imgur.com/YnLFMT8.png)
 > **github 닉네임**에는 본인이 가입할 때 입력한 **Username**을 입력하면 돼요.
 > **Username**이 기억나지 않으면 주소창을 보세요. GitHub 로그인했을 때 주소창 ```https://github.com/[github 닉네임]```!
+
+## 과제 땡겨오기
+
+[GitHub][github] 저장소에서 과제 등 최신 파일들을 땡겨오는 방법이에요. [SourceTree][sourcetree]를 켜서 로컬 저장소를 열었을 때의 화면이에요.
+> ![sourcetree repo init](https://i.imgur.com/x1oKRlM.png)
+
+위에 **Pull** 이라고 보이시죠? 눌러주시면 다음과 같이 나올거에요.
+> ![sourcetree pull](https://i.imgur.com/Egwoisf.png)
+
+그런 다음 확인만 눌러주면 끝! 실패하지 않았다면 따로 성공했다는 화면은 뜨지않아요.
+> ![sourcetree pull done](https://i.imgur.com/sxxujkf.png)
+> 이 화면이 뜨지않아도 성공한거에요.
 
 **준비가 다 끝났어요! 수고하셨어요. 이제 열심히 공부해봐요!**
 
