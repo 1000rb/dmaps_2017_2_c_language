@@ -1,7 +1,7 @@
 # 2017년 2학기 C언어 스터디에 참여하신 여러분, 환영합니다!
 
-매주 수요일 20:30~21:30 ICT관 516호에서 진행돼요.
-도움이 필요하시면 미디어센터 501호로 편하게 들어오세요!
+매주 목요일 19:30~20:30 ICT관 516호에서 진행돼요.
+도움이 필요하시면 DMAPS(미디어센터 501호, 과사 아님)로 편하게 들어오세요!
 
   - 그 주에 알아볼 파트를 다같이 공부해요.
   - 공부한 파트의 연습 문제를 다같이 풀어볼거에요.
@@ -56,7 +56,7 @@ SourceTree도 준비 끝!
 그 다음 상단에 **Clone**을 클릭하고, 아래 사진과 같이 입력하고 클론!
 > ![sourcetree_screen_clone](https://i.imgur.com/YnLFMT8.png)
 > **github 닉네임**에는 본인이 가입할 때 입력한 **Username**을 입력하면 돼요.
-> **Username**이 기억나지 않으면 주소창을 보세요. GitHub 로그인했을 때 주소창 ```https://github.com/[github 닉네임]```!
+> **Username**이 기억나지 않으면 주소창을 보세요. GitHub 로그인했을 때 주소창 ```https://github.com/[닉네임]```!
 
 잘 들어왔어요.
 > ![local repo directory file explorer](https://i.imgur.com/fnHLTit.png)
