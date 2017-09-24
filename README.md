@@ -61,7 +61,13 @@ SourceTree도 준비 끝!
 잘 들어왔어요.
 > ![local repo directory file explorer](https://i.imgur.com/fnHLTit.png)
 
-저장소 연결도 끝!
+다음 상단 **저장소**를 누르고 **저장소 설정**을 눌러주세요.
+> ![sourcetree repo setting](https://i.imgur.com/BwxrJFd.png)
+> ![sourcetree repo setting2](https://i.imgur.com/d985kGb.png)
+
+그런 다음 **추가**를 눌러서 아래와 같이 입력해주시면 끝!
+> ![sourcetree repo setting3](https://i.imgur.com/CNrjtsg.png)
+> ![sourcetree repo setting4](https://i.imgur.com/2cbq3mU.png)
 
 ## 연습 문제 땡겨오기
 
@@ -70,6 +76,9 @@ SourceTree도 준비 끝!
 
 위에 **Pull** 이라고 보이시죠? 눌러주시면 다음과 같이 나올거에요.
 > ![sourcetree pull](https://i.imgur.com/Egwoisf.png)
+
+여기서 **원격 저장소에서 가져오기**를 눌러서 아래와 같이 선택해주세요.
+> ![sourcetree pull2](https://i.imgur.com/5ABILSO.png)
 
 그런 다음 확인만 눌러주면 끝! 실패하지 않았다면 따로 성공했다는 화면은 뜨지않아요.
 > ![sourcetree pull done](https://i.imgur.com/sxxujkf.png)
