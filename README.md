@@ -80,7 +80,7 @@ SourceTree도 준비 끝!
 여기서 **원격 저장소에서 가져오기**를 눌러서 아래와 같이 선택해주세요.
 > ![sourcetree pull2](https://i.imgur.com/5ABILSO.png)
 
-그런 다음 확인만 눌러주면 끝! 실패하지 않았다면 따로 성공했다는 화면은 뜨지않아요.
+그런 다음 **새로고침**을 눌러주시고 잠시 후에 **가져오기 위한 원격 브랜치**에서 **master**를 선택하신 다음 확인 눌러주면 끝! 실패하지 않았다면 따로 성공했다는 화면은 뜨지않아요.
 > ![sourcetree pull done](https://i.imgur.com/sxxujkf.png)
 > 이 화면이 뜨지않아도 성공한거에요!
 
